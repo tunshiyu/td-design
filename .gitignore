@@ -1,5 +1,6 @@
 node_modules
 .vscode
+.idea
 lerna-debug.log
 */.DS_Store
 
@@ -8,6 +9,8 @@ lib/
 dist
 build
 .umi
+.umi-*
+docs-dist
 
 package-lock.json
 yarn.lock
